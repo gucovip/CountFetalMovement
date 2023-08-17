@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+yarn
 yarn install --help
 ```
 
